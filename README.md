@@ -47,7 +47,7 @@ Total Working Years
 Education Level
 Number of Companies Worked
 
-# Tool Used:
+# Tools Used:
 Power BI, MS Excel, Power Query, SQL
 
 # Data Handling:
