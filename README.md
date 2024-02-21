@@ -5,12 +5,18 @@ An overview of all the four dashboards I created. The first page includes the de
 third page on turnover analysis 2, and the fourth and final page is dedicated to employee wellness.
 I will explain the content of each page accordingly.
 # Demographic Insights
+The Demographic report summarizes employee statistics, including age groups, gender, distance from home, work life balance, education field and marital status, providing insights into workforce diversity and commuting patterns for informed decision-making.
 
 # Turnover Analysis 1
+The turnover analysis 1 report provides insights into employee attrition, including departures by department, job roles affected, business travel impact, and the total years in the current role, aiding in workforce management and retention strategies.
+
 
 # Turnover Analysis 2
+The turnover analysis 2 report consolidates employee data, featuring attrition by job level, overtime, performance ratings, and average monthly income, offering critical insights for effective HR strategies and decision-making.
 
 # Employee Wellness
+The Employee Wellness report offers insights into attrition rates categorized by environment satisfaction, relationship
+satisfaction, job involvement, and job satisfaction, enabling proactive measures to enhance employee well-being and retention.
 
 
 # Dataset
